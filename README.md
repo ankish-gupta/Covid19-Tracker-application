@@ -22,7 +22,5 @@ This is an application which gives stats regarding covid19 cases countrywise as 
 7. Donate to official WHO's website
 
 # Screenshots
-![Screenshot_20211117-160755](https://user-images.githubusercontent.com/49330110/142186149-c36daaa0-e245-4069-9ebf-4cc1e5d137e2.jpg)
-![Screenshot_20211117-160805](https://user-images.githubusercontent.com/49330110/142186156-fe239717-bfb7-4e4c-b46c-f0c55a68c2e5.jpg)
-![Screenshot_20211117-160656](https://user-images.githubusercontent.com/49330110/142186162-82ccc9d9-a35e-4dfd-9ade-5c0e5b0eafd3.jpg)
-![Screenshot_20211117-160704](https://user-images.githubusercontent.com/49330110/142186165-32d1665a-3fb3-4360-8c34-dd172f305124.jpg)
+![Screenshot_20211117-160656](https://user-images.githubusercontent.com/49330110/142186162-82ccc9d9-a35e-4dfd-9ade-5c0e5b0eafd3.jpg) ![Screenshot_20211117-160704](https://user-images.githubusercontent.com/49330110/142186165-32d1665a-3fb3-4360-8c34-dd172f305124.jpg)
+![Screenshot_20211117-160755](https://user-images.githubusercontent.com/49330110/142186149-c36daaa0-e245-4069-9ebf-4cc1e5d137e2.jpg) ![Screenshot_20211117-160805](https://user-images.githubusercontent.com/49330110/142186156-fe239717-bfb7-4e4c-b46c-f0c55a68c2e5.jpg)
